@@ -8,7 +8,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 class Config:
-    PROJECT_NAME = 'LEARN FLASK'
+    PROJECT_NAME = 'LEARN_FLASK'
     APP_PRJNAM = PROJECT_NAME
     LEVEL = 'DEBUG'
 
